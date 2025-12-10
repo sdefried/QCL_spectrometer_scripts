@@ -1,7 +1,7 @@
    # QCL_spectrometer_scripts
 MATLAB scripts for operating a double-beam MIRcat QCL-based spectrometer with SR865A lock-in detection.
 
-Please cite Mukherjee, S., Fried, S.D.E., Hong, N.Y., Bagheri, N., Kozuch, J., Mathews, I.I., Kirsh, J.M., and Boxer, S.G. Detection of Drug Binding in Live Cells using Quantum Cascade Laser Spectroscopy with Nitrile-Incorporated Proteins. In preparation.
+Please cite Mukherjee, S., Fried, S.D.E., Hong, N.Y., Bagheri, N., Kozuch, J., Mathews, I.I., Kirsh, J.M., and Boxer, S.G. (2025) Covalent Drug Binding in Live Cells Monitored by Mid-Infrared Quantum Cascade Laser Spectroscopy: Photoactive Yellow Protein as a Model System. J. Am. Chem. Soc. https://doi.org/10.1021/jacs.5c14498
 
 This MATLAB live script interfaces with a Daylight Solutions MIRcat QCL and SR865A lock-in amplifier to collect IR scans over the wavelength range specified. The equipment parameters are set as following:
 
